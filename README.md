@@ -12,7 +12,7 @@
 ---
 
 ## Description
-This game was coded as a part of a set of udemy courses i did on frontend web development by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/).The game is fairly simple, the user attempts to guess a number from 1-20 and the interface lets you know wether you are lesser or greater than the required number.You can also play again and try to beat your highscore.
+This game was coded as a part of a set of udemy courses i did on frontend web development by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/).The game works similar to blackjack but with the limit being 50.Each player can keep rolling a die and adding points to their score.If they roll a 1 their points are lost and the chance goes to the other player.First player to reach 50 wins.You can also hold to add the points you have scored and give chance to the other player.
 
 ---
 
