@@ -1,6 +1,6 @@
-#Welcome to Pig Game
+# Welcome to Pig Game
 
-![PigGame](https://user-images.githubusercontent.com/85004364/125152499-95be6d00-e16a-11eb-9956-84fcb99367aa.png)
+![PigGame](https://user-images.githubusercontent.com/85004364/125157192-168b6200-e187-11eb-8131-db7099b6f5af.png)
 
 ---
 
