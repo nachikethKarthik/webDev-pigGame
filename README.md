@@ -30,6 +30,6 @@ This game was coded as a part of a set of udemy courses i did on frontend web de
 Just fork this repo and clone it down to your own machine.Open the folder using VS code and initialize the live server.
 
 #### Installation
-[VS code (with live server extension)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [VS code (with live server extension)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 [Back To The Top](#welcome-to-pig-game)
